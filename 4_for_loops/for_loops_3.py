@@ -1,5 +1,4 @@
-# 4 For loops Objects. Loops
-
+# 4 For loops
 
 for num1 in range(3):
     print('num1', num1)

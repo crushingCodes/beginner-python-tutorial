@@ -1,4 +1,4 @@
-# 3 List Data Types. Data types
+# 3 Data types - Numbers
 
 # String - str
 string1 = 'some text'
@@ -9,6 +9,5 @@ number2 = 10
 
 
 # TODO try to add another variable to the print to get a total of 20
-
 
 print(number1 + number2)

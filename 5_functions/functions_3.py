@@ -1,7 +1,10 @@
-# 5 Functions. Functions
+# 5 Functions
 
 
-def say_hello(num1, num2):
+def add_2_numbers(num1, num2):
     return 0
 
-# TODO Make the function add the two numbers together
+# TODO Make the function add the two numbers together and print the result
+
+
+# print(result)

@@ -1,4 +1,4 @@
-# 4 For loops Objects. Loops
+# 4 For loops
 
 # Before running this
 # What do you think will happen

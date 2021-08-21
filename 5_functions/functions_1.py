@@ -1,4 +1,4 @@
-# 5 Functions. Functions
+# 5 Functions
 
 
 def say_hello():

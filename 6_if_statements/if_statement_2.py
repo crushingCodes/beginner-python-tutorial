@@ -1,4 +1,4 @@
-# 6. if statements
+# 6. Conditionals - if statements
 
 value = 5
 

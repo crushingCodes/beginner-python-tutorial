@@ -1,3 +1,4 @@
+# 3 Data types - List
 
 
 fruit_list = ['apple', 'orange', 'banana', 'grape', 'kiwi', 'pineapple']

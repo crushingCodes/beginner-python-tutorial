@@ -1,5 +1,4 @@
-# 4 For loops Objects. Loops
-
+# 4 For loops
 
 animals = ['dog', 'cat', 'bear', 'fish']
 

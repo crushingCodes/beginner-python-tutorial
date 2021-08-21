@@ -1,4 +1,4 @@
-# 1 Numbers Start here. Hello World
+# 1 Start here
 
 # Right click on start.py and click Run "start"
 # Notice it shows the text down the bottom "This is a message"

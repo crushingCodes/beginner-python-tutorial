@@ -1,4 +1,4 @@
-# while loops
+# 8. while loops
 
 finished = False
 
