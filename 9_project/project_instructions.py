@@ -1,6 +1,6 @@
 # 9. Project - Tic tac toe
 
-# TODO Make a the game Tic tac toe in tic_tac_toe.py
+# TODO Make the game Tic tac toe in tic_tac_toe.py
 
 # TODO Make it a 2 player game that asks for the players desired position each turn
 # For example:
