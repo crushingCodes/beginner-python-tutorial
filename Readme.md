@@ -2,11 +2,12 @@
 
 ## Requirements
 
-### Python 3
+***Python 3***
+
 [Python Download](https://www.python.org/downloads/)
 
 
-### Python IDE/Editor
+***Python IDE/Editor***
 
 I recommend using Pycharm Community Edition to work through the tutorial, but any IDE that supports Python is OK.
 [Pycharm Download](https://www.jetbrains.com/pycharm/download)
