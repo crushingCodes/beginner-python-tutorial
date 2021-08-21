@@ -1,4 +1,4 @@
-# 3. Data types
+# 3 List Data Types. Data types
 
 # String - str
 string1 = 'some text'

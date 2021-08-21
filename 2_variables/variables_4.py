@@ -1,4 +1,4 @@
-# 2. Variables
+# 2 String Variables. Variables
 
 number1 = 5
 number2 = 2

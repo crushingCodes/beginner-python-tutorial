@@ -1,4 +1,4 @@
-# 2. Variables
+# 2 String Variables. Variables
 
 message = "Hello World"
 
