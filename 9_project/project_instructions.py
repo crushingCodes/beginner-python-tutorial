@@ -1,7 +1,8 @@
 # 9. Project - Tic tac toe
 
+# TODO Make a the game Tic tac toe in tic_tac_toe.py
 
-# TODO Make 2 player game that asks for the players desired position
+# TODO Make it a 2 player game that asks for the players desired position each turn
 # For example:
 # Player 1 - Please choose your x position: 1
 # Player 1 - Please choose your y position: 3
@@ -11,9 +12,9 @@
 # using print()
 
 #     1   2   3
-# 1 | O | O | X
-# 2 | O | O | X
-# 3 | X |   | X
+# 1 | O | O | X |
+# 2 | O | O | X |
+# 3 | X |   | X |
 
 # TODO You should display a message when a player gets 3 in a row is reached the end of the game
 # For example:
@@ -22,13 +23,19 @@
 # Example game flow
 # Player 1 - Please choose your x position: 1
 # Player 1 - Please choose your y position: 3
-# Show the board
+#     1   2   3
+# 1 |   |   |   |
+# 2 |   |   |   |
+# 3 | X |   |   |
 # Check for 3 in a row
 # Player 2 - Please choose your x position: 1
 # Player 2 - Please choose your y position: 2
-# Show the board
+#     1   2   3
+# 1 |   |   |   |
+# 2 | O |   |   |
+# 3 | X |   |   |
 # Check for 3 in a row
-# And keep going until a win or all the spaces are used
+# Keep going until a win or all the spaces are used
 
 
 # TODO Bonus: Try to get the players coordinates in one input question
