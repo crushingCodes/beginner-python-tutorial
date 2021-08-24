@@ -2,10 +2,10 @@
 import random
 # Nested list
 emojis = [
-    ["😁", "💕", "️😎"],
-    ["🙈", "👩🏻", "👌"],
-    ["😜", "😂", "😆"],
-    ["👨🏻‍💻‍‍", "🤪", "🤩"]
+    ["😁", "💕", "🐓️"],
+    ["🙈", "👩🏻", "😎"],
+    ["😜", "😂", "🍄"],
+    ["👨🏻‍💻‍‍", "🤪", "🐉"]
 ]
 
 
@@ -19,9 +19,8 @@ emojis = [
 # TODO 3. using 1 for loop, try to print only the emoji row with the monkey
 # e.g. Hint: using similar strategy the above, except only 1 for loop
 # 🙈
-# 😊
-# 👌
-
+# 👩🏻
+# 😎
 
 # Random
 # You can create random numbers using the following:
