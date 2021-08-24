@@ -13,4 +13,4 @@ else:
     print("YOU LOSE! Number was", random_number)
 
 
-# TODO using a for loop, make this question appear 5 Functions times in a row
+# TODO 1. using a for loop, make this question appear 5 times in a row

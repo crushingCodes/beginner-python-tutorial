@@ -1,8 +1,8 @@
 # 4 For loops
 
-for num1 in range(3):
+for num1 in range(0, 3):
     print('num1', num1)
-    for num2 in range(3):
+    for num2 in range(0, 3):
         print('num2', num2)
 
 

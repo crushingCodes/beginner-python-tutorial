@@ -1,7 +1,7 @@
 # 4 For loops
 
 count = 0
-for num1 in range(1):
+for num1 in range(0, 1):
     count = count + num1
 
 

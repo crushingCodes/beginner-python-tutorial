@@ -3,7 +3,7 @@
 letter_str = ''
 
 # For loop
-for x in range(1):
+for x in range(0, 1):
     letter_str = letter_str + 'k'
 
 # TODO try to get 5 k letters by changing range in the for looop
