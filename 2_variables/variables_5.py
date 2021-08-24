@@ -7,12 +7,13 @@
 
 # variable = 'value'
 variable = 'You have won $'
-print(variable)
 
-
-# TODO 1. change the variable name to something better matching
+# TODO 1. change the variable name from "variable" to something better matching
 
 
 # TODO 2. try to use your variable to say the following without changing the code above:
 # You have won $100.00
 
+
+# !!!! Do not modify below code !!!!
+print(variable)
