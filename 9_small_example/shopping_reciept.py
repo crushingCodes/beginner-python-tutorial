@@ -16,9 +16,9 @@ def print_receipt(items, total):
     print("#####Receipt#####")
     print("-----Items------")
     for item in items:
-        print(item['name'], '$', item['price'])
+        print(item['name'], '$', round(item['price'], 2))
     print("-----Total------")
-    print('$', total)
+    print('$', round(total, 2))
     print("----------------")
 
 
