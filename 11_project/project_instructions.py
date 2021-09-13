@@ -1,4 +1,4 @@
-# 10. Project - Tic tac toe
+# 11. Project - Tic tac toe
 
 # TODO Make the game Tic tac toe in tic_tac_toe_two_player.py
 
