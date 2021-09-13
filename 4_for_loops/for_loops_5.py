@@ -6,7 +6,7 @@ letter_str = ''
 for x in range(0, 1):
     letter_str = letter_str + 'k'
 
-# TODO try to get 5 k letters by changing range in the for looop
+# TODO try to get 5 k letters by changing range in the for loop
 
 
 # These are some example of what range(9) is doing under the hood
@@ -15,7 +15,7 @@ for x in range(0, 1):
 # when finished return it to range()
 
 
-##This is what we would need without using a for loop
+## This is what we would need without using a for loop
 # letter_str = ''
 # letter_str = letter_str + 'k'
 # letter_str = letter_str + 'k'

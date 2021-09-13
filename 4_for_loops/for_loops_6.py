@@ -1,4 +1,4 @@
-# 4 For loops - Nested Array
+# For loops - Nested List
 
 # Nested list
 coordinates = [[1, 32, 54, 23], [35, 63, 2, 3], [7, 73, 23, 12], [23, 4, 6, 9]]

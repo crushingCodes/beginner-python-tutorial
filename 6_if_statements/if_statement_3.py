@@ -12,16 +12,14 @@ message_length = len(message)
 print(message_length)
 
 # if statement block
-if message_length > 21:
+if message_length > 19:
     print('long message')
 elif message_length > 28:
     print("really long message")
-elif message_length < 12:
+elif message_length < 13:
     print("medium message")
 else:
     print("short message")
 
 
-# TODO fix this code to detect all four messages
-# Hint: the numbers next to message length are all correct
-
+# TODO fix this code to match each message size: short, medium, long, really long
